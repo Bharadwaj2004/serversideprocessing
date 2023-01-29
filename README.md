@@ -143,8 +143,7 @@ path('area/',views.rectarea),
 ]
 ```
 ## OUTPUT:
-
-
+![Screenshot (52) server](https://user-images.githubusercontent.com/119560345/215318324-7ed7a4f4-5947-4cfa-b29d-1d2fb09014df.png)
 
 ## Result:
 The program is executed succesfully.
